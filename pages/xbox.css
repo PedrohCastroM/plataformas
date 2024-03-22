@@ -1,0 +1,30 @@
+.body{
+    background-color: #228B22;
+    color: white;
+}
+.jogos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jogos2{
+    margin-right: 200px;
+}
+
+.jogos3{
+    margin-right: 130px;
+}
+
+.jogos4{
+    margin-right: 220px;
+}
+
+.jogos5{
+    margin-right: 200px;
+}
+
+.button{
+    background-color:#228B22 ;
+    border-color: #228B22;
+}
